@@ -1,0 +1,6 @@
+/Users/nevo/Desktop/dev/pluginDevelopment/pluginTests/firstSynth/Builds/CLion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nevo/Desktop/dev/pluginDevelopment/pluginTests/firstSynth/Builds/CLion/cmake-build-debug/CMakeFiles/AU.dir
+/Users/nevo/Desktop/dev/pluginDevelopment/pluginTests/firstSynth/Builds/CLion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nevo/Desktop/dev/pluginDevelopment/pluginTests/firstSynth/Builds/CLion/cmake-build-debug/CMakeFiles/SHARED_CODE.dir
+/Users/nevo/Desktop/dev/pluginDevelopment/pluginTests/firstSynth/Builds/CLion/cmake-build-debug/CMakeFiles/STANDALONE_PLUGIN.dir
+/Users/nevo/Desktop/dev/pluginDevelopment/pluginTests/firstSynth/Builds/CLion/cmake-build-debug/CMakeFiles/VST.dir

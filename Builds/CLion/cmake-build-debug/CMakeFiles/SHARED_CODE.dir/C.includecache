@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nevo/Desktop/dev/pluginDevelopment/pluginTests/firstSynth/maximilian/stb_vorbis.c
+stb_vorbis.h
+/Users/nevo/Desktop/dev/pluginDevelopment/pluginTests/firstSynth/maximilian/stb_vorbis.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+math.h
+-
+malloc.h
+-
+
+/Users/nevo/Desktop/dev/pluginDevelopment/pluginTests/firstSynth/maximilian/stb_vorbis.h
+stdio.h
+-
+
